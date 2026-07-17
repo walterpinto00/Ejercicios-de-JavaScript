@@ -13,9 +13,11 @@ Entre los ejercicios resueltos en este repositorio se incluyen:
 
 ## 💻 ¿Cómo ejecutar los ejercicios?
 
-Dado que son scripts de JavaScript puro, tienes un par de opciones sencillas para probarlos:
+Dado que los scripts utilizan funciones nativas de la web como `prompt()` y `console.log()` para interactuar con el usuario, la forma correcta de probarlos es a través de un navegador.
 
-1. **En el navegador:** Puedes copiar el código de cualquier archivo `.js` y pegarlo directamente en la consola de las herramientas de desarrollador de tu navegador (presionando `F12` o `Ctrl + Shift + I`).
-2. **Con Node.js:** Si tienes Node.js instalado en tu computadora, puedes ejecutar cada archivo desde tu terminal usando el comando:
-   ```bash
-   node "Ejercicio 1.js
+**Pasos:**
+1. Abre el archivo `.js` que deseas probar en GitHub y copia todo su código.
+2. Abre una pestaña nueva en tu navegador web.
+3. Presiona `F12` o `Ctrl + Shift + I` para abrir las Herramientas de Desarrollador.
+4. Dirígete a la pestaña **Consola** (Console).
+5. Pega el código allí y presiona `Enter`. Inmediatamente verás las ventanas emergentes pidiéndote los datos.
